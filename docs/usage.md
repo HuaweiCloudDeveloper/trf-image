@@ -1,7 +1,8 @@
 # TRF使用指南
 
 # 一、商品链接
-
+[TRF基因串联重复查找程序](https://marketplace.huaweicloud.com/hidden/contents/3e66a64b-fb34-4232-8176-9e0cfe66d972#productid=OFFI1172422940967157760
+)
 # 二、商品说明
 
 TRF（Tandem Repeats Finder）是定位和显示 DNA 序列中串联重复序列的程序。使用该程序，您可以输入FASTA格式的序列数据，无需指定图样或其大小等其他任何参数。
